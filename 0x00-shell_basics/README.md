@@ -1,1 +1,1 @@
-shell basics note
+new shell basics note 
